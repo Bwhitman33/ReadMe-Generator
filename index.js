@@ -45,10 +45,23 @@ const questions = [
     name: "languages",
   },
   {
-    type: 'input',
-    message: 'Are there any FAQs for your project? If so, please include them with answers for each included',
-    name: 'questions',
-  }
+    type: "input",
+    message:
+      "What is your github username?",
+    name: "gitUser",
+  },
+  {
+    type: "input",
+    message:
+      "What is your full github repository link?",
+    name: "gitRepo",
+  },
+  {
+    type: "input",
+    message:
+      "What is your email address?",
+    name: "userEmail",
+  },
 ];
 
 // TODO: Create a function to write README file

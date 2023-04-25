@@ -42,6 +42,15 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
   <br>
+
+  ## Languages Used
+  ${data.languages}
+  <br>
+
+  ## Questions
+  Any questions can be asked at ${data.email}. 
+  <br> 
+  The github repository for this project can be found at [${data.gitUser}](${data.gitRepo})
 `;
 }
 
