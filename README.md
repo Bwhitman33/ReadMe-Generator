@@ -1,39 +1,18 @@
-# asdasda
-  <br>
-  ## Description
-  asdasdasd
-  <br>
-  ## Table of Contents
-  1. [Installation](#installation)
-  2. [Usage](#usage)
-  3. [Contributing](#contributing)
-  4. [Tests](#tests)
-  5. [Languages Used](#languages)
-  6. [Questions](#questions)
-  <br>
+# ReadME-Generator
 
-  ## Installation
-  See below for any of this project's dependencies - 
-  asdasdas
-  <br>
+## Description
+This is the challenge for Module 9 of the Rutger's Coding Bootcamp. This challenge was to create an app that will allow a user to generate a professional ReadME for their projects by answering a few simple questions. 
 
-  ## Usage
-  asdasdasd
-  <br>
+## Installation
+This project is dependent on npm and inquirer. You can download these by navigating to your terminal and (under the root directory you will be working in) entering "npm init" and pressing enter, followed by entering "npm i inquirer" and pressing enter
 
-  ## Contributing
-  asdasdasd
-  <br>
+## Usage
+To use this project, please enter "Node index.js" into your terminal and then answer the questions that you will be prompted to answer. Once you have finished answering these questions, simply check the "generated_ReadME" folder for your new ReadME!
 
-  ## Tests
-  asdasdasd
-  <br>
+## Links
+<a href="https://www.youtube.com/video/KTlYvFO8XIM"> youtube.com/video/KTlYvFO8XIM </a>
+<br>
+<a href="https://github.com/Bwhitman33/ReadMe-Generator"> Github Repository </a>
 
-  ## Languages Used
-  asdasdasd
-  <br>
-
-  ## Questions
-  Any questions can be asked at undefined. 
-  <br> 
-  The github repository for this project can be found at [asdasdasd](asdasdasd)
+## Instructional Walkthrough
+<video width= "800" height= "500" controls src="assets\InstructionalVideo.mp4">
