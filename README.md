@@ -15,4 +15,4 @@ To use this project, please enter "Node index.js" into your terminal and then an
 <a href="https://github.com/Bwhitman33/ReadMe-Generator"> Github Repository </a>
 
 ## Instructional Walkthrough
-<video width= "800" height= "500" controls src="assets\InstructionalVideo.mp4">
+<video width= "800" height= "500" controls src="./assets/InstructionalVideo.mp4">
