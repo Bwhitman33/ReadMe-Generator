@@ -75,7 +75,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then(function (data) {
-        let fileName = "./generated_ReadME";
+        let fileName = "./generated_ReadME/ReadME-output.md";
         writeToFile(fileName, data);
       });
     }
